@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=WEvVgk6WnKQ&t=313s&ab_channel=Cod3rCursos
+Link da aula
+
+https://github.com/EsdrasOliver/python-masterclass
+Link do Fork no GitHub 
+
+https://github.com/cod3rcursos/python-masterclass
+Link do projeto
